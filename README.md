@@ -1,5 +1,5 @@
 # Applied-DS-C
-Applied Data Science Capstone Project for the IBM Data Science Professional Certifcate with Coursera
+Applied Data Science Capstone Project for the IBM Data Science Professional Certificate with Coursera
 
 SpaceX is able to propose rocket launch at inexpensive price because they can reuse the 1st stage. Thus, to predict the price of a rocket launch, we use public data on SpaceX past launches to train a machine learning model which can predict if the 1st stage will land successfully.
 •  We proceed with the following methodology :
